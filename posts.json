@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "\u0439\u0443\u0439\u0446\u0443",
+        "content": "\u0439\u0446\u0443\u0439\u0446\u0443",
+        "category": "science",
+        "is_active": true,
+        "publication_date": "2222-12-12",
+        "author": "Default User"
+    },
+    {
+        "id": 2,
+        "title": "\u0439\u0446\u0443\u0439",
+        "content": "\u0439\u0446\u0443\u0439\u0446\u0443",
+        "category": "science",
+        "is_active": true,
+        "publication_date": "2222-11-11",
+        "author": "Default User"
+    },
+    {
+        "id": 3,
+        "title": "qwe",
+        "content": "qwe",
+        "category": "science",
+        "is_active": true,
+        "publication_date": "2222-02-22",
+        "author": "Default User"
+    },
+    {
+        "id": 4,
+        "title": "\u0439\u0446\u0443\u0439",
+        "content": "\u0439\u0446\u0443\u0439\u0443",
+        "category": "tech",
+        "is_active": false,
+        "publication_date": "1111-11-11",
+        "author": "Default User"
+    },
+    {
+        "id": 5,
+        "title": "\u0439\u0446\u0443",
+        "content": "\u0439\u0446\u0443",
+        "category": "science",
+        "is_active": false,
+        "publication_date": "1111-11-11",
+        "author": "Default User"
+    }
+]
